@@ -1,7 +1,7 @@
 document.body.onload = addElement
 
 function addElement() {
-    for (let i = 0; i < 256; i++){
+    for (let i = 0; i < 100; i++){
         var grid = document.querySelector(".gridContainer")
         var div = document.createElement("div")
         div.classList.add("square")
