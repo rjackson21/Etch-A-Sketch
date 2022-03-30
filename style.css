@@ -19,3 +19,13 @@
     background-color: gray;
     border: 1px solid black;
   }
+
+  h2 {
+      text-align: center;
+  }
+
+  .center {
+    margin: auto;
+    width: 50%;
+
+  }
